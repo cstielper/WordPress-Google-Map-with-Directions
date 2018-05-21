@@ -1,4 +1,7 @@
 # WordPress Google Map with Directions
+
+**NOTE: This repository is no longer maintained. It has been rolled into a [new one](https://github.com/cstielper/wordpress-acf-google-map).**
+
 Follow the steps below to set up an area map that uses the Google Maps API to plot a landmark and get directions to that landmark
 
 ## Install Required Plugins
